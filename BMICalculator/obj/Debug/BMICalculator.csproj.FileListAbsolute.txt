@@ -1,0 +1,11 @@
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\BMICalculator\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\BMICalculator\obj\Debug\BMICalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\BMICalculator\obj\Debug\BMICalculator.MainForm.resources
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\BMICalculator\obj\Debug\BMICalculator.pdb
