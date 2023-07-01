@@ -1,0 +1,17 @@
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\bin\Debug\net6.0-windows\Assignment6C.exe
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\bin\Debug\net6.0-windows\Assignment6C.deps.json
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\bin\Debug\net6.0-windows\Assignment6C.runtimeconfig.json
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\bin\Debug\net6.0-windows\Assignment6C.dll
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\bin\Debug\net6.0-windows\Assignment6C.pdb
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\Assignment6C.csproj.AssemblyReference.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\Assignment6C.MainForm.resources
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\Assignment6C.csproj.GenerateResource.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\Assignment6C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\Assignment6C.AssemblyInfoInputs.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\Assignment6C.AssemblyInfo.cs
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\Assignment6C.csproj.CoreCompileInputs.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\Assignment6C.dll
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\refint\Assignment6C.dll
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\Assignment6C.pdb
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\Assignment6C.genruntimeconfig.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment6C\obj\Debug\net6.0-windows\ref\Assignment6C.dll

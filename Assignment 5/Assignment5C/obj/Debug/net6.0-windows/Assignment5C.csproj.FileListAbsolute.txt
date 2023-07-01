@@ -1,0 +1,17 @@
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\Assignment5C.csproj.AssemblyReference.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\Assignment5C.MainForm.resources
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\Assignment5C.csproj.GenerateResource.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\Assignment5C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\Assignment5C.AssemblyInfoInputs.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\Assignment5C.AssemblyInfo.cs
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\Assignment5C.csproj.CoreCompileInputs.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\bin\Debug\net6.0-windows\Assignment5C.exe
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\bin\Debug\net6.0-windows\Assignment5C.deps.json
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\bin\Debug\net6.0-windows\Assignment5C.runtimeconfig.json
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\bin\Debug\net6.0-windows\Assignment5C.dll
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\bin\Debug\net6.0-windows\Assignment5C.pdb
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\Assignment5C.dll
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\refint\Assignment5C.dll
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\Assignment5C.pdb
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\Assignment5C.genruntimeconfig.cache
+C:\Users\jagte\OneDrive\Skrivbord\Skola\T6 - Programming in C#\Assignment 5\Assignment5C\obj\Debug\net6.0-windows\ref\Assignment5C.dll

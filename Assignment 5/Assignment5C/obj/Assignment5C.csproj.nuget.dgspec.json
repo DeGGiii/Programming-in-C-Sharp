@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jagte\\OneDrive\\Skrivbord\\Skola\\T6 - Programming in C#\\Assignment 5\\Assignment5C\\Assignment5C.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jagte\\OneDrive\\Skrivbord\\Skola\\T6 - Programming in C#\\Assignment 5\\Assignment5C\\Assignment5C.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jagte\\OneDrive\\Skrivbord\\Skola\\T6 - Programming in C#\\Assignment 5\\Assignment5C\\Assignment5C.csproj",
+        "projectName": "Assignment5C",
+        "projectPath": "C:\\Users\\jagte\\OneDrive\\Skrivbord\\Skola\\T6 - Programming in C#\\Assignment 5\\Assignment5C\\Assignment5C.csproj",
+        "packagesPath": "C:\\Users\\jagte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jagte\\OneDrive\\Skrivbord\\Skola\\T6 - Programming in C#\\Assignment 5\\Assignment5C\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jagte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
